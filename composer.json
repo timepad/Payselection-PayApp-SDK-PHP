@@ -1,5 +1,5 @@
 {
-    "name": "payselection/payselection-php-client",
+    "name": "timepad/payselection-php-client",
     "description": "Payselection api client",
     "type": "library",
     "license": "MIT",
